@@ -1,10 +1,10 @@
-# git clone git@github.com:OliverGaskill/testinggit.git
+ git clone git@github.com:OliverGaskill/testinggit.git
 
-# vi README
+ vi README
 
-# git commit 
+ git commit 
 
-# git push -m 
+ git push -m 
 
 
  testinggit
